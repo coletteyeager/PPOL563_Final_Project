@@ -1,0 +1,14 @@
+name: PPOL563_Final_Project
+title: PPOL563_Final_Project
+username:
+account: cby5
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7905898
+bundleId: 6645163
+url: https://cby5.shinyapps.io/PPOL563_Final_Project/
+when: 1671209358.4
+lastSyncTime: 1671209358.40001
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|animation_creation.R|example/app.R|Project data/.DS_Store|www/.DS_Store
